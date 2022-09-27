@@ -1,0 +1,6 @@
+{
+    "INAMES": ["Cheeseburger", "Hot dog", "Chips", "Drink"],
+    "IPRICES": [7.0, 3.0, 4.1, 1.0],
+    "OITEMS": ["Cheeseburger", "Hot dog", "Drink", "Hot dog", "Hot dog", "Cheeseburger", "Hot dog"],
+    "OQTY": [1, 2, 5, 1, 2, 2, 1]
+}
