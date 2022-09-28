@@ -1,6 +1,6 @@
 {
-    "INAMES": ["Cheeseburger", "Hot dog", "Chips", "Drink"],
-    "IPRICES": [7.0, 3.0, 4.1, 1.0],
-    "OITEMS": ["Cheeseburger", "Hot dog", "Drink", "Hot dog", "Hot dog", "Cheeseburger", "Hot dog"],
-    "OQTY": [1, 2, 5, 1, 2, 2, 1]
+    "INAMES": ["Cheeseburger", "Hot dog", "Chips", "Drink", "Chocolate", "Popcorn", "Icecream"],
+    "IPRICES": [7.0, 3.0, 4.0, 1.0, 2.0, 5.5, 3.5],
+    "OITEMS": ["Drink", "Popcorn", "Hot dog", "Cheeseburger", "Chips", "Chips", "Chocolate", "Hot dog", "Icecream", "Popcorn", "Hot dog", "Drink", "Hot dog", "Cheeseburger", "Popcorn", "Popcorn", "Icecream", "Chips", "Popcorn", "Drink", "Drink", "Chips", "Icecream", "Icecream", "Popcorn", "Hot dog", "Chips", "Hot dog", "Popcorn", "Icecream", "Chips", "Chocolate", "Icecream", "Icecream", "Popcorn", "Hot dog", "Chips", "Chocolate", "Chips", "Cheeseburger", "Chocolate", "Chips", "Drink", "Drink", "Chocolate", "Cheeseburger", "Icecream", "Popcorn", "Chips", "Hot dog", "Icecream", "Cheeseburger", "Cheeseburger", "Chocolate", "Hot dog", "Icecream", "Icecream", "Cheeseburger", "Popcorn", "Popcorn", "Chips", "Chocolate", "Popcorn", "Chocolate", "Chips", "Chocolate", "Hot dog", "Cheeseburger", "Cheeseburger", "Popcorn", "Icecream", "Chocolate", "Hot dog", "Popcorn", "Hot dog", "Cheeseburger", "Popcorn", "Drink", "Chips", "Chocolate", "Cheeseburger", "Cheeseburger", "Chocolate", "Icecream", "Drink", "Chocolate", "Popcorn", "Hot dog", "Icecream", "Popcorn", "Chips", "Popcorn", "Chocolate", "Popcorn", "Chips", "Hot dog", "Icecream", "Drink", "Hot dog", "Drink"],
+    "OQTY": [4, 4, 1, 2, 2, 2, 2, 5, 2, 1, 3, 1, 4, 5, 3, 5, 5, 3, 5, 2, 1, 1, 4, 4, 3, 2, 3, 4, 3, 3, 5, 1, 1, 1, 5, 2, 2, 5, 5, 2, 2, 4, 4, 4, 1, 1, 4, 2, 5, 1, 1, 2, 4, 4, 2, 2, 5, 1, 3, 2, 2, 5, 2, 3, 3, 4, 5, 5, 3, 1, 2, 4, 1, 3, 2, 3, 2, 2, 5, 5, 3, 5, 1, 3, 2, 2, 3, 2, 4, 3, 3, 5, 4, 2, 3, 5, 5, 3, 4, 1]
 }
